@@ -1,5 +1,5 @@
 # Real-Time-Chat-App
-Join Rooms And Chat With Others In Real Time
+Join Rooms And Chat With Others Within The Same Room In Real Time
 
 This project used:
 - ReactJS
